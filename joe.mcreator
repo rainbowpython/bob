@@ -1,0 +1,92 @@
+{
+  "mod_elements": [
+    {
+      "name": "Joe",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "joe"
+    },
+    {
+      "name": "JoearmorArmor",
+      "type": "armor",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "joearmor_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "JoearmorArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "joearmor_armor_helmet_recipe"
+    },
+    {
+      "name": "JoearmorArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "joearmor_armor_body_recipe"
+    },
+    {
+      "name": "JoearmorArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "joearmor_armor_leggings_recipe"
+    },
+    {
+      "name": "JoearmorArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "joearmor_armor_boots_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.joe.joearmor_armor_helmet": "Joearmor Helmet",
+      "item.joe.joe": "Joe",
+      "item.joe.joearmor_armor_chestplate": "Joearmor Chestplate",
+      "item.joe.joearmor_armor_boots": "Joearmor Boots",
+      "item.joe.joearmor_armor_leggings": "Joearmor Leggings"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "joe",
+    "modName": "joe",
+    "version": "1.0.0",
+    "author": "joshle, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.17.1",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.joe",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100353117
+}

@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "joe:joe"
+    },
+    "1": {
+      "item": "joe:joe"
+    },
+    "2": {
+      "item": "joe:joe"
+    },
+    "3": {
+      "item": "joe:joe"
+    },
+    "5": {
+      "item": "joe:joe"
+    }
+  },
+  "result": {
+    "item": "joe:joearmor_armor_helmet",
+    "count": 1
+  }
+}
