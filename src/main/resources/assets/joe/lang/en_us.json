@@ -1,11 +1,16 @@
 {
   "item.joe.joearmor_armor_helmet": "Joearmor Helmet",
   "item.joe.joe": "Joe",
-  "item.joe.joearmor_armor_chestplate": "Joearmor Chestplate",
-  "item.joe.joearmor_armor_boots": "Joearmor Boots",
+  "item.joe.copper_shovel": "Copper Shovel",
+  "item.joe.copper_axe": "Copper Axe",
   "item.joe.joearmor_armor_leggings": "Joearmor Leggings",
   "item.joe.copper_armor_boots": "Copper Boots",
-  "item.joe.copper_armor_chestplate": "Copper Chestplate",
   "item.joe.copper_armor_helmet": "Copper Helmet",
-  "item.joe.copper_armor_leggings": "Copper Leggings"
+  "item.joe.copper_armor_leggings": "Copper Leggings",
+  "item.joe.copper_pickaxe": "Copper Pickaxe",
+  "item.joe.joearmor_armor_chestplate": "Joearmor Chestplate",
+  "item.joe.copper_sword": "Copper Sword",
+  "item.joe.joearmor_armor_boots": "Joearmor Boots",
+  "item.joe.copper_hoe": "Copper Hoe",
+  "item.joe.copper_armor_chestplate": "Copper Chestplate"
 }
