@@ -13,23 +13,23 @@ public class CopperAxeItem extends AxeItem {
 	public CopperAxeItem() {
 		super(new Tier() {
 			public int getUses() {
-				return 152;
+				return 250;
 			}
 
 			public float getSpeed() {
-				return 5f;
+				return 6f;
 			}
 
 			public float getAttackDamageBonus() {
-				return -1f;
+				return 0f;
 			}
 
 			public int getLevel() {
-				return 1;
+				return 2;
 			}
 
 			public int getEnchantmentValue() {
-				return 10;
+				return 14;
 			}
 
 			public Ingredient getRepairIngredient() {
