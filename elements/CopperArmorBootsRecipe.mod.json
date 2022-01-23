@@ -10,37 +10,37 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "CUSTOM:Joe"
+        "value": ""
       },
       {
         "value": ""
       },
       {
-        "value": "CUSTOM:Joe"
+        "value": ""
       },
       {
-        "value": "CUSTOM:Joe"
+        "value": "Items.COPPER_INGOT"
       },
       {
-        "value": "CUSTOM:Joe"
+        "value": ""
       },
       {
-        "value": "CUSTOM:Joe"
+        "value": "Items.COPPER_INGOT"
       },
       {
-        "value": "CUSTOM:Joe"
+        "value": "Items.COPPER_INGOT"
       },
       {
-        "value": "CUSTOM:Joe"
+        "value": ""
       },
       {
-        "value": "CUSTOM:Joe"
+        "value": "Items.COPPER_INGOT"
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:JoearmorArmor.body"
+      "value": "CUSTOM:CopperArmor.boots"
     },
-    "name": "joearmor_armor_body_recipe",
+    "name": "copper_armor_boots_recipe",
     "namespace": "mod"
   }
 }

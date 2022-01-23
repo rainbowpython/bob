@@ -6,20 +6,20 @@
   ],
   "key": {
     "0": {
-      "item": "joe:joe"
+      "item": "minecraft:copper_ingot"
     },
     "2": {
-      "item": "joe:joe"
+      "item": "minecraft:copper_ingot"
     },
     "3": {
-      "item": "joe:joe"
+      "item": "minecraft:copper_ingot"
     },
     "5": {
-      "item": "joe:joe"
+      "item": "minecraft:copper_ingot"
     }
   },
   "result": {
-    "item": "joe:joearmor_armor_boots",
+    "item": "joe:copper_armor_boots",
     "count": 1
   }
 }

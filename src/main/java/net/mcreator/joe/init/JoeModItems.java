@@ -10,8 +10,7 @@ import net.minecraftforge.event.RegistryEvent;
 
 import net.minecraft.world.item.Item;
 
-import net.mcreator.joe.item.JoearmorArmorItem;
-import net.mcreator.joe.item.JoeItem;
+import net.mcreator.joe.item.CopperArmorItem;
 
 import java.util.List;
 import java.util.ArrayList;
@@ -19,11 +18,10 @@ import java.util.ArrayList;
 @Mod.EventBusSubscriber(bus = Mod.EventBusSubscriber.Bus.MOD)
 public class JoeModItems {
 	private static final List<Item> REGISTRY = new ArrayList<>();
-	public static final Item JOE = register(new JoeItem());
-	public static final Item JOEARMOR_ARMOR_HELMET = register(new JoearmorArmorItem.Helmet());
-	public static final Item JOEARMOR_ARMOR_CHESTPLATE = register(new JoearmorArmorItem.Chestplate());
-	public static final Item JOEARMOR_ARMOR_LEGGINGS = register(new JoearmorArmorItem.Leggings());
-	public static final Item JOEARMOR_ARMOR_BOOTS = register(new JoearmorArmorItem.Boots());
+	public static final Item COPPER_ARMOR_HELMET = register(new CopperArmorItem.Helmet());
+	public static final Item COPPER_ARMOR_CHESTPLATE = register(new CopperArmorItem.Chestplate());
+	public static final Item COPPER_ARMOR_LEGGINGS = register(new CopperArmorItem.Leggings());
+	public static final Item COPPER_ARMOR_BOOTS = register(new CopperArmorItem.Boots());
 
 	private static Item register(Item item) {
 		REGISTRY.add(item);

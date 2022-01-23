@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "joe:items/joearmor_leggings"
+    "layer0": "joe:items/copper_boots"
   }
 }
