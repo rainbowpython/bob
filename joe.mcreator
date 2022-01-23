@@ -15,6 +15,14 @@
       }
     },
     {
+      "name": "CopperArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copper_armor_boots_recipe"
+    },
+    {
       "name": "CopperArmorHelmetRecipe",
       "type": "recipe",
       "sortid": 2,
@@ -39,22 +47,23 @@
       "registry_name": "copper_armor_leggings_recipe"
     },
     {
-      "name": "CopperArmorBootsRecipe",
-      "type": "recipe",
-      "sortid": 5,
+      "name": "ArmorStuff",
+      "type": "tab",
+      "sortid": 7,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "copper_armor_boots_recipe"
+      "registry_name": "armor_stuff"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.joe.copper_armor_boots": "Copper Boots",
-      "item.joe.copper_armor_chestplate": "Copper Chestplate",
-      "item.joe.copper_armor_helmet": "Copper Helmet",
-      "item.joe.copper_armor_leggings": "Copper Leggings"
+      "item.joe.joearmor_armor_helmet": "Joearmor Helmet",
+      "item.joe.joe": "Joe",
+      "item.joe.joearmor_armor_chestplate": "Joearmor Chestplate",
+      "item.joe.joearmor_armor_boots": "Joearmor Boots",
+      "item.joe.joearmor_armor_leggings": "Joearmor Leggings"
     }
   },
   "foldersRoot": {
