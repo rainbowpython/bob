@@ -53,6 +53,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "joearmor_armor_boots_recipe"
+    },
+    {
+      "name": "ArmorStuff",
+      "type": "tab",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "armor_stuff"
     }
   ],
   "variable_elements": [],
@@ -62,6 +70,7 @@
       "item.joe.joearmor_armor_helmet": "Joearmor Helmet",
       "item.joe.joe": "Joe",
       "item.joe.joearmor_armor_chestplate": "Joearmor Chestplate",
+      "itemGroup.tabarmor_stuff": "Armor Stuff",
       "item.joe.joearmor_armor_boots": "Joearmor Boots",
       "item.joe.joearmor_armor_leggings": "Joearmor Leggings"
     }
